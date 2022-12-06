@@ -3,6 +3,7 @@ Selenium based scraper to pull jobs I've applied to from LinkedIn
 
 # Needed Packages
 ChromeDriver: https://chromedriver.chromium.org/
+
 Selenium: https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
 
 # Script Actions
