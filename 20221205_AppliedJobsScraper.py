@@ -66,4 +66,4 @@ driver.close()
 #Zips company and job info together, pushes to dataframe, then save to excel
 zipped=list(zip(company_name, job_title))
 df=pd.DataFrame(zipped, columns=['Company', 'Job Title'])
-df.to_csv('20221204_Applied List.csv', index=False)
+df.to_csv('Applied_Jobs_List.csv', index=False)
